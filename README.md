@@ -7,3 +7,6 @@ k8_Notes
 4. writing docs urself
 
 https://www.linkedin.com/in/nikinath/?originalSubdomain=in talk
+
+
+https://www.kubernetes.dev/docs/contributor-cheatsheet/
