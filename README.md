@@ -6,6 +6,10 @@ k8_Notes
 3. designing docs
 4. writing docs urself
 
+
+source code in local:
+C:\Users\04120V744\go\src\k8.io\kubernetes
+
 https://www.linkedin.com/in/nikinath/?originalSubdomain=in talk
 
 
