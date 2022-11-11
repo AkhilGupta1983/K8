@@ -14,3 +14,9 @@ https://www.linkedin.com/in/nikinath/?originalSubdomain=in talk
 
 
 https://www.kubernetes.dev/docs/contributor-cheatsheet/
+
+
+=====================================================
+Issues: good first
+
+https://github.com/kubernetes/kubernetes/issues/113709
