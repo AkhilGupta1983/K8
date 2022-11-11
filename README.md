@@ -20,3 +20,7 @@ https://www.kubernetes.dev/docs/contributor-cheatsheet/
 Issues: good first
 
 https://github.com/kubernetes/kubernetes/issues/113709
+>>>>>>>>>>>>>>>>>>>
+
+kubectl:
+C:\Users\04120V744\go\src\github.com\kubeflow\kfctl
